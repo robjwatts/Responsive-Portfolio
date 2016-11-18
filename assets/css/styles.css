@@ -1,4 +1,4 @@
-html,
+hfixetml,
 body {
   height: 100%;
   width: 100%;
@@ -127,9 +127,9 @@ hr {
   text-align: center;
 }
 
-#nate_image {
-  width: 200px;
-  height: 200px;
+#rob_image {
+  width: 100px;
+  height: 100px;
   float: left;
   padding-right: 20px;
   margin-top: 30px;
